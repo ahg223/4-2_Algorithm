@@ -1,0 +1,15 @@
+N, M, K = map(int, input().split())
+
+if N>2*M:
+	K -= N - 2*M
+	N = 2*M
+elif N%2==1:
+	N -= 1 
+	K -= 2*M - N + 1
+	M = N//2
+else:
+	K -= 2*M-N
+	M = N//2
+
+if K%3!=0: print(M - K//3 -1)
+else: print(M - K//3)
