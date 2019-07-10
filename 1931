@@ -1,0 +1,7 @@
+
+N = int(input())
+
+Conference = [[] for i in range(N)]
+for i in range(N): Conference[i] = list(map(int, input().split()))
+
+print(Conference)
