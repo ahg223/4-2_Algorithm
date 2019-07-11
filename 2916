@@ -1,0 +1,21 @@
+N, K = map(int,input().split())
+Known = [int(x) for x in input().split()]
+
+angles = [[0]*361 for i in range(N+1)]
+
+
+def Angles(count, angle):
+    if angles[count][angle] == 1 or count == N: return
+
+    angles[count][angle] = 1
+    Angles(count, (360+angle+Known[count])%360)
+    Angles(count, (360+angle-Known[count])%360)
+    Angles(count+1, angle)
+
+
+Angles(0,0)
+
+temp = [int(x) for x in input().split()]
+for i in range(K):
+    if angles[-2][temp[i]] == 1 : print("YES")
+    else: print("NO")
