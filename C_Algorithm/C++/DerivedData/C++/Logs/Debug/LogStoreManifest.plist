@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>8A6BFF88-DF4C-45A1-876B-8EB7FC165ED6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8A6BFF88-DF4C-45A1-876B-8EB7FC165ED6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>C++ project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>C++</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug C++</string>
+			<key>timeStartedRecording</key>
+			<real>592209100.61014402</real>
+			<key>timeStoppedRecording</key>
+			<real>592209102.20503294</real>
+			<key>title</key>
+			<string>Debug C++</string>
+			<key>uniqueIdentifier</key>
+			<string>8A6BFF88-DF4C-45A1-876B-8EB7FC165ED6</string>
+		</dict>
+		<key>BA37A27E-ADB8-4CB6-B8A3-0CA74AC1BDFD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BA37A27E-ADB8-4CB6-B8A3-0CA74AC1BDFD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>C++ project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>C++</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug C++</string>
+			<key>timeStartedRecording</key>
+			<real>592208947.48613095</real>
+			<key>timeStoppedRecording</key>
+			<real>592208956.57345295</real>
+			<key>title</key>
+			<string>Debug C++</string>
+			<key>uniqueIdentifier</key>
+			<string>BA37A27E-ADB8-4CB6-B8A3-0CA74AC1BDFD</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

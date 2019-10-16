@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B1C2AB74DEF3482F7684CE83808D5C827F6F452B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B1C2AB74DEF3482F7684CE83808D5C827F6F452B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F9B415D0-0169-475A-AA81-39BC92D69E14",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B1C2AB74DEF3482F7684CE83808D5C827F6F452B" : "4-2_Algorithm\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "fff",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "fff\/fff.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ahg223\/4-2_Algorithm.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B1C2AB74DEF3482F7684CE83808D5C827F6F452B"
+    }
+  ]
+}
